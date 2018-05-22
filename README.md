@@ -1,4 +1,3 @@
 # practice
 hello
-hi
-hola
+
